@@ -1,0 +1,168 @@
+{
+    "summary": [
+        "Highly motivated and goal oriented Data Management architect & aspiring web developer",
+        "Hands on Experience with Datawarehousing & web development",
+        "Excellent communication and inter personal skills"
+    ],
+    "personalInfo": {
+        "about": "",
+        "name": "Deepak Gundavaram",
+        "location": "Richmond, Va",
+        "github": "https://github.com/deepakgundavaram",
+        "linkedIn": "https://www.linkedin.com/in/krishna-deepak-reddy-gundavaram-4bb6b81a6/"
+    },
+    "education": [{
+            "degree": "Masters in Decision Analytics, Virginia, USA",
+            "university": "VCU",
+            "year": 2017
+        },
+        {
+            "degree": "Master's of Science in technology Management,Connecticut,USA",
+            "university": "University of Bridgeport, USA",
+            "year": 2008
+        },
+        {
+            "degree": "Full Stack Web Developer BootCamp",
+            "university": "University of Richmond, Virginia,USA",
+            "year": 2020
+        },
+
+        {
+            "degree": "Engineering in Information Technology",
+            "university": "Anna University, Chennai, India",
+            "year": 2006
+        }
+    ],
+    "projects": [{
+            "heading": "Portfolio",
+            "description": "Personal web portfolio developed using React",
+            "technologies": [
+                "React",
+                "React-Bootstrap",
+                "React-tagcloud",
+                "CSS"
+            ],
+            "link": "https://obscure-springs-21761.herokuapp.com/",
+            "screenshot": "https://lh3.googleusercontent.com/z-8SR71jdp7df0pQ1gkM7Hz0aXKgLxlm-p-55T7ztxOk1XAmqAk56MRA1lKxfTb3lsix88sJzWcA7yELd47dyyyYPIU-m2Q0qeS4xmL8l0NmJnH9zol-q7FHvq2sh3oM00yzFc-2PoEYs4pPphWBXriSR96AbVpuXIVu7nvs2rw88bx5iUTgq-l8ZU2uiKWEn2v2kGG6I0MSV2ewoXv3_7R2bYLk-LKbnv7lsYDk7RNVKCHHn97xBO6TwzpAGV_f8ag6TBLGUA0f6EzUv3ciK0WPal9jVd5sv76wnhjDKTaLg3nUtVNo-4i7Z6yWjc08U7qx_iYRfzfu0ZNjjjzStNgsm3nCgD8xE1JvaG5Jj-JPmDEBDDKZP6aRGr6apWAopa-pDOGVtkYu66Ob6Htq3Z_3JX3k509QZmLcQRik7pys8cDHz3FawPKMOamPGWF_vyxlDepbK2HcczDxLo1cIgPI272i_on6RPnVTcWDhMwJfS1-NubeERTTAYC0HT92l9hp_rYR00CvjEW2ybQDocu18zz0zV2nZM7z3a_7J6VMCw1juRBuYSIHRjgPRr5PNqdIpQyehA6eCDkwzUAWeukt3OANy39xrGx5vnqQRiithEbauYt_nlQieCBSeM5MY-GCfZHfWper4ub8Mb0oAqA9x3lu7Pl_FzKtqjaCLkNq7F_1Qwh4s_Waxg0A=w1870-h901-no?authuser=0"
+        },
+        {
+            "heading": "User directory",
+            "description": "Simple employee directory with React",
+            "technologies": [
+                "React",
+                "React-Bootstrap",
+                "CSS"
+            ],
+            "link": "https://obscure-springs-21761.herokuapp.com/",
+            "screenshot": "https://lh3.googleusercontent.com/ZIrgDYmKJVSoF7v-0heQf_jr9HkGc8TgiK7YCS_y_ViP7POtpP87yKjZromxFE8FQVTSFvlGZrFx-zfrUFIw80V5JKmLslD6ov6yaowVxuHv4-ER_-uvf-4BLew1G21rwxBV8i29tEaV23ps_hfpq31iiZXaXvvD4b7egasR5x2erRqhY2dU6DS4kA8TqDpTv47yVUHf6RCtN9PYoUm7oGds7ONPwdYRr9SbSFpVvckMVKzOmRCZSPLgFqWIaU3n-pPRh9p0fMMBcucS70Uf9nhn4HtcRKM4S8cTGUo6LfP0zmtfge_yEwOSYvaw4-rcIYNfxOtSOKnY4JWx9IqBLEEbeSFZjW4Wd3jwvYm7j4CwD5PeCpT-GzHPvkNgbUNmLJI-3GGRIKpjzgKGoluvfY_RaxQU_vl_qId_xXN1upWi1wT4ovipXsUWnRgwSlWEhoIFncsRJ0uCC53wMH7eWq3hkgT9mthgYFqaasbCqvTMQCGV2zorlM4P5ngWarDQUuKd0noZPt1g_VoG9UMXwEx_UL9TS_EhuoPxxcTCluKpyeRQc1QYqWnZnjf4ggZTIReyaR0wKh-So8VbBDXyOaH4uKw7rAQzkGAum0mJZomjtQoL8TiyQBayjVAhyqTdbNmBfPbMteOz8-jymL4zgPjcyr4uBi6xR8VQbAMaaBybb8_ea2_J_LLzajA_=w1885-h867-no?authuser=0"
+        },
+        {
+            "heading": "Progressive Web App",
+            "description": "Progressive Web App",
+            "technologies": ["HTML", "CSS", "JavaScript", "Node.Js", "Express.js"],
+            "link": "https://secret-ridge-48059.herokuapp.com/",
+            "screenshot": "https://lh3.googleusercontent.com/40URzy1E9HlrgmI9IxrmNBsHPzPSwnAihYj8qwFuL2GvH6Qeo-oA8oXNrirjeuPizvioVeKXV1RKA2L6jgbyQkBykrmYd5Kgg-9T6mKZyrw_GNkfNMoc0X5arzrResWjBptM_6JslOiK5bLMfpyUzrVBTTo4vT4BYtpZdgxx6b_lh0dRsCsu1zftd5tejQ-9jV4F5JKFTpg0L79oCI2IJ7313OA45KzSw4cCS0IbdifN7gX2Og6MkmgOFyHA1ST7NUIE4XesfFAvb-hOCxuDN0QN4ln2LK10CNeEkxWQfjDHpm8TfdqT8vQMeajYao73u66a4GAJnMWf9SGW1fgqpJEKzMeX45eBZ7zJ7lgHPp5vw2D6oMIxir20aXigJ-S_dLpDpOuDYPDBHXn25zZDbpXLzq1tJsB7guT_qjh7x9yS_RId_Qbn_izHByBnU4t2zEJhZCIadWdlXGdBPQawsEnh7EsOC09_llhey8Dd_aGjI7kPwtwXbbNk6FbSqCpOj3XXQfBGRLcYMUWCMIv8YPxk8_nbhIGBAEVSPyXnofvFAibiY85-UHjWz6lZtUqvTW5gY2ZsanWFGnDN4rAGblQFwiPNIU_lnXz43SleTGNNJ6N-wLdndRQMrkTwMFf1Qu4Eq2opfUn9jh4TTVngqkyOPukEA9hRJQ13nrh78JM4ZOG5Y2c2_u2__nyB=w1875-h871-no?authuser=0"
+        },
+        {
+            "heading": "Fitness Tracker",
+            "description": "Fitness Tracker",
+            "technologies": ["HTML", "CSS", "JavaScript", "Node.Js", "Express.js"],
+            "link": "https://desolate-forest-43607.herokuapp.com/stats",
+            "screenshot": "https://lh3.googleusercontent.com/g-ESTIa_fNpee8Lv4dK3GRxba6CN7DEA9i1Hju5NvpDbuBRc6-WiEcVsbTXhi4C0ClMFPnV4q1aiG_TGkrZw5wn2dtqrihJI21wk3dHZovelHEeuYKPmTd-CHSKWj_kkm73Z4DAPiVEjm0Mtq0CwP77D3kLXsN3RKD9Cvc892a_uG-RHS7IoQXdj1hROEqyIUB1zPpsGs8xU1_BNGyJWrVisyYUhD45Wk2N7Dg49yAw2qT6mFjNJkUuM-4Cbvxwmsyqfvmb3-pkcX48CvyZFX3e9movDmBwwrG7-f97lJyXCOG6CMEau1WxsbtRRXWPErvwRhs4LQjeMJdbrvJd51FOJ1ur7SHjAdpcg-YHT78wse76S-ZarmFE9st3WXg4DZIUZbSw2VD77cnMsL7AxF-pv-j25ZYfQBNQGyQpRl5pGMg3cEacwCBkv695fv6w-51Ddvnjw6XQhjGX8nNYyr2Gjpt3eHNcKs0qr2Ja2PvlSBkvZMHLTk_M3_P1M4V-In50-ftdW4cXPNXysoEdqgkFcoXi-GyZxdf6_FkaeL-yxL7-8re7Q2Bhy0v-xwvXk8nyZ9JWypKFdPB8SOW6bWRQAER5MQ0ckq97qj3ykwd7XIF9UP3LNMw6TFQhdup_mVLKQEfXRC6J7BFqTQCAU0bDYKYHG7dVQGwNxvbaIKLE5yVjco0EyMoqGeQFE=w1858-h898-no?authuser=0"
+        },
+        {
+            "heading": "Hike & Hire",
+            "description": "Hike & Hire",
+            "technologies": ["HTML", "CSS", "JavaScript", "Node.Js", "Express.js"],
+            "link": " https://shrouded-anchorage-20263.herokuapp.com/",
+            "screenshot": "https://lh3.googleusercontent.com/a0j-25uQFTjhXe_znQDxi_bPgMqgQfTieMa3gR3hP1BqILd14vPV2CMvB9-EssXts-CgUjzdUp_QcuIwN68y3zEN4hcFlwwdEtB8tAGmjggWHSm-GWxIofTHmoh_5a31l-CZeD2Z1gSDjSC-CKLtOBQnqupRKO4peexKglS6CnSMVBtd_wzYXmgjkr1Baf28nQt6AfMWPvTQ_gunsRvSSdDZnEoeHnTaYKJOUh8hTd-giWXiwRU33wqq05BS1KTODVVY4Bt-mUyj_4lDQ-HMy1PEbrvWYc1NWl6cCEk3KUkbFuMTaHMmG_g3lKCspyWv0J__NKOwlwqoJ9B1Rm2xz-VO_G5Zv2ZOF8Dw9MUn4f08Jt63qDfi6ps2ZW0eXpLtnJ5ATTPKYBBfRRhZcp-bcUY2j3wyfiHv97mWi_YCKGNMGO5qsXXXjyAGHqV0PXcIu71A6rD_lrsiwh1eDgKBsfWv5Vlw18qyrg5CLiHFj7BSFjHnshA7qe18m3Ox2Rg65c8gE8Jj5FywJTjL6lUiEM7Es69YGz-fyPnRDtAL-_IQEwQFwm7ZrPVxo5D-I-OxZBkKjwKlzQ3HnFFLzYnkYhTKPnS0edeFfyNc99UjWd01EvOQF0pheY5dT4-nLNf1iDQZ-r8HafxragOX22X4S1fY-oV6R3ZjpnKalvabhbjxiVCntP5MbcZiyucq=w1890-h898-no?authuser=0"
+        },
+        {
+            "heading": "FInal Project TBD..",
+            "description": "FInal Project TBD..",
+            "technologies": ["HTML", "CSS", "JavaScript", "Node.Js", "Express.js"],
+            "link": " https://shrouded-anchorage-20263.herokuapp.com/",
+            "screenshot": "https://lh3.googleusercontent.com/ZIrgDYmKJVSoF7v-0heQf_jr9HkGc8TgiK7YCS_y_ViP7POtpP87yKjZromxFE8FQVTSFvlGZrFx-zfrUFIw80V5JKmLslD6ov6yaowVxuHv4-ER_-uvf-4BLew1G21rwxBV8i29tEaV23ps_hfpq31iiZXaXvvD4b7egasR5x2erRqhY2dU6DS4kA8TqDpTv47yVUHf6RCtN9PYoUm7oGds7ONPwdYRr9SbSFpVvckMVKzOmRCZSPLgFqWIaU3n-pPRh9p0fMMBcucS70Uf9nhn4HtcRKM4S8cTGUo6LfP0zmtfge_yEwOSYvaw4-rcIYNfxOtSOKnY4JWx9IqBLEEbeSFZjW4Wd3jwvYm7j4CwD5PeCpT-GzHPvkNgbUNmLJI-3GGRIKpjzgKGoluvfY_RaxQU_vl_qId_xXN1upWi1wT4ovipXsUWnRgwSlWEhoIFncsRJ0uCC53wMH7eWq3hkgT9mthgYFqaasbCqvTMQCGV2zorlM4P5ngWarDQUuKd0noZPt1g_VoG9UMXwEx_UL9TS_EhuoPxxcTCluKpyeRQc1QYqWnZnjf4ggZTIReyaR0wKh-So8VbBDXyOaH4uKw7rAQzkGAum0mJZomjtQoL8TiyQBayjVAhyqTdbNmBfPbMteOz8-jymL4zgPjcyr4uBi6xR8VQbAMaaBybb8_ea2_J_LLzajA_=w1885-h867-no?authuser=0"
+        }
+    ],
+    "skills": [{
+            "value": "jQuery",
+            "count": 25
+        },
+        {
+            "value": "MongoDB",
+            "count": 18
+        },
+        {
+            "value": "JavaScript",
+            "count": 27
+        },
+        {
+            "value": "React",
+            "count": 30
+        },
+        {
+            "value": "Nodejs",
+            "count": 23
+        }, {
+            "value": "Express.js",
+            "count": 25
+        },
+        {
+            "value": "HTML5",
+            "count": 38
+        },
+        {
+            "value": "CSS3",
+            "count": 25
+        },
+        {
+            "value": "Express-Handlebar",
+            "count": 22
+        },
+        {
+            "value": "MySQL",
+            "count": 21
+        },
+        {
+            "value": "Git",
+            "count": 30
+        },
+        {
+            "value": "GitHub",
+            "count": 25
+        },
+        {
+            "value": "Bitbucket",
+            "count": 5
+        },
+        {
+            "value": "Chai",
+            "count": 10
+        },
+        {
+            "value": "Mocha",
+            "count": 5
+        },
+        {
+            "value": "RQM",
+            "count": 5
+        },
+        {
+            "value": "Wordpress",
+            "count": 25
+        },
+        {
+            "value": "Drupal",
+            "count": 10
+        },
+        {
+            "value": "Heroku",
+            "count": 35
+        },
+        {
+            "value": "Firebase",
+            "count": 10
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+.card.text-white.bg-primary.mb-3 {
+    height: 250px;
+    width: 300px;
+}
+#education{
+    font-family: 'Nunito', sans-serif; 
+}
+span.card-text{
+    font-family: 'Crimson Text', serif;
+    font-size: 20px;
+    color: black;
+}
+
+.edu-degree {
+    color: #e83e8c;
+}
+i.fa.fa-graduation-cap:hover{
+    color: #18BC9C;
+}
+i.fa.fa-graduation-cap{
+    margin-left: 2px;
+}
